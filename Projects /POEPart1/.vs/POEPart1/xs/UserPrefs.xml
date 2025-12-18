@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{06D2D361-C135-4AFD-A954-F4B9C8B2DA8F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.POEPart1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="POEPart1/Recipe.cs">
+    <Files>
+      <File FileName="POEPart1/Program.cs" Line="36" Column="13" />
+      <File FileName="POEPart1/Recipe.cs" Line="50" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="POEPart1" expanded="True">
+            <Node name="POEPart1">
+              <Node name="Recipe.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

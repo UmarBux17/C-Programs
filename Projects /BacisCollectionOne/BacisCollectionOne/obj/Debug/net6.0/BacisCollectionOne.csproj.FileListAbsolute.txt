@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/obj/Debug/net6.0/BacisCollectionOne.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/obj/Debug/net6.0/BacisCollectionOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/obj/Debug/net6.0/BacisCollectionOne.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/obj/Debug/net6.0/BacisCollectionOne.AssemblyInfo.cs
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/obj/Debug/net6.0/BacisCollectionOne.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/bin/Debug/net6.0/BacisCollectionOne
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/bin/Debug/net6.0/BacisCollectionOne.deps.json
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/bin/Debug/net6.0/BacisCollectionOne.runtimeconfig.json
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/bin/Debug/net6.0/BacisCollectionOne.dll
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/bin/Debug/net6.0/BacisCollectionOne.pdb
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/obj/Debug/net6.0/BacisCollectionOne.dll
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/obj/Debug/net6.0/refint/BacisCollectionOne.dll
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/obj/Debug/net6.0/BacisCollectionOne.pdb
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/obj/Debug/net6.0/BacisCollectionOne.genruntimeconfig.cache
+/Users/buxologist/Projects/BacisCollectionOne/BacisCollectionOne/obj/Debug/net6.0/ref/BacisCollectionOne.dll

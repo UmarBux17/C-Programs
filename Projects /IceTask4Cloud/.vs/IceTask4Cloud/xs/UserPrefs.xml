@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{60AED539-C38F-4C65-940A-730940621EAD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IceTask4Cloud/local.settings.json">
+    <Files>
+      <File FileName="IceTask4Cloud/QueueFunction.cs" Line="5" Column="36" />
+      <File FileName="IceTask4Cloud/local.settings.json" Line="10" Column="178" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IceTask4Cloud" expanded="True">
+            <Node name="IceTask4Cloud">
+              <Node name="local.settings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IceTask4Cloud PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

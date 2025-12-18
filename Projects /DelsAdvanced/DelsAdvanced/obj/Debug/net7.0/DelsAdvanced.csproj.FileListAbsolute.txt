@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/bin/Debug/net7.0/DelsAdvanced
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/bin/Debug/net7.0/DelsAdvanced.deps.json
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/bin/Debug/net7.0/DelsAdvanced.runtimeconfig.json
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/bin/Debug/net7.0/DelsAdvanced.dll
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/bin/Debug/net7.0/DelsAdvanced.pdb
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/obj/Debug/net7.0/DelsAdvanced.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/obj/Debug/net7.0/DelsAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/obj/Debug/net7.0/DelsAdvanced.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/obj/Debug/net7.0/DelsAdvanced.AssemblyInfo.cs
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/obj/Debug/net7.0/DelsAdvanced.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/obj/Debug/net7.0/DelsAdvanced.dll
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/obj/Debug/net7.0/refint/DelsAdvanced.dll
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/obj/Debug/net7.0/DelsAdvanced.pdb
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/obj/Debug/net7.0/DelsAdvanced.genruntimeconfig.cache
+/Users/buxologist/Projects/DelsAdvanced/DelsAdvanced/obj/Debug/net7.0/ref/DelsAdvanced.dll

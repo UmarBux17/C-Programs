@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/bin/Debug/net6.0/BasicCollectionsFour
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/bin/Debug/net6.0/BasicCollectionsFour.deps.json
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/bin/Debug/net6.0/BasicCollectionsFour.runtimeconfig.json
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/bin/Debug/net6.0/BasicCollectionsFour.dll
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/bin/Debug/net6.0/BasicCollectionsFour.pdb
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/obj/Debug/net6.0/BasicCollectionsFour.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/obj/Debug/net6.0/BasicCollectionsFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/obj/Debug/net6.0/BasicCollectionsFour.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/obj/Debug/net6.0/BasicCollectionsFour.AssemblyInfo.cs
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/obj/Debug/net6.0/BasicCollectionsFour.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/obj/Debug/net6.0/BasicCollectionsFour.dll
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/obj/Debug/net6.0/refint/BasicCollectionsFour.dll
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/obj/Debug/net6.0/BasicCollectionsFour.pdb
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/obj/Debug/net6.0/BasicCollectionsFour.genruntimeconfig.cache
+/Users/buxologist/Projects/BasicCollectionsFour/BasicCollectionsFour/obj/Debug/net6.0/ref/BasicCollectionsFour.dll

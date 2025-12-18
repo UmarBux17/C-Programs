@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{590520BF-A80E-449B-AC7E-0E53EB9BC492}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DSBasicOne/Program.cs">
+    <Files>
+      <File FileName="DSBasicOne/Program.cs" Line="12" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DSBasicOne" expanded="True">
+            <Node name="DSBasicOne" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DSBasicOne PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

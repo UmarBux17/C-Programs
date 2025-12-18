@@ -1,0 +1,5 @@
+/Users/buxologist/Projects/PointerOne/PointerOne/obj/Debug/net7.0/PointerOne.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/PointerOne/PointerOne/obj/Debug/net7.0/PointerOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/PointerOne/PointerOne/obj/Debug/net7.0/PointerOne.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/PointerOne/PointerOne/obj/Debug/net7.0/PointerOne.AssemblyInfo.cs
+/Users/buxologist/Projects/PointerOne/PointerOne/obj/Debug/net7.0/PointerOne.csproj.CoreCompileInputs.cache

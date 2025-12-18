@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{40FAD2CD-2DC0-4C42-8E79-E04A52C09E2C}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProjectBeta PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest1/UnitTest1.cs">
+    <Files>
+      <File FileName="ProjectBeta/Program.cs" />
+      <File FileName="UnitTest1/UnitTest1.cs" Line="17" Column="42" />
+      <File FileName="ProjectBeta/Calc.cs" Line="10" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectBeta" expanded="True">
+            <Node name="ProjectBeta" expanded="True" />
+            <Node name="UnitTest1" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ProjectBeta" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/bin/Debug/net7.0/DSBasicOne
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/bin/Debug/net7.0/DSBasicOne.deps.json
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/bin/Debug/net7.0/DSBasicOne.runtimeconfig.json
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/bin/Debug/net7.0/DSBasicOne.dll
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/bin/Debug/net7.0/DSBasicOne.pdb
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/obj/Debug/net7.0/DSBasicOne.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/obj/Debug/net7.0/DSBasicOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/obj/Debug/net7.0/DSBasicOne.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/obj/Debug/net7.0/DSBasicOne.AssemblyInfo.cs
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/obj/Debug/net7.0/DSBasicOne.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/obj/Debug/net7.0/DSBasicOne.dll
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/obj/Debug/net7.0/refint/DSBasicOne.dll
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/obj/Debug/net7.0/DSBasicOne.pdb
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/obj/Debug/net7.0/DSBasicOne.genruntimeconfig.cache
+/Users/buxologist/Projects/DSBasicOne/DSBasicOne/obj/Debug/net7.0/ref/DSBasicOne.dll

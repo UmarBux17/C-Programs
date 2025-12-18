@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/DelTwo/DelTwo/obj/Debug/net6.0/DelTwo.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/DelTwo/DelTwo/obj/Debug/net6.0/DelTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/DelTwo/DelTwo/obj/Debug/net6.0/DelTwo.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/DelTwo/DelTwo/obj/Debug/net6.0/DelTwo.AssemblyInfo.cs
+/Users/buxologist/Projects/DelTwo/DelTwo/obj/Debug/net6.0/DelTwo.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/DelTwo/DelTwo/bin/Debug/net6.0/DelTwo
+/Users/buxologist/Projects/DelTwo/DelTwo/bin/Debug/net6.0/DelTwo.deps.json
+/Users/buxologist/Projects/DelTwo/DelTwo/bin/Debug/net6.0/DelTwo.runtimeconfig.json
+/Users/buxologist/Projects/DelTwo/DelTwo/bin/Debug/net6.0/DelTwo.dll
+/Users/buxologist/Projects/DelTwo/DelTwo/bin/Debug/net6.0/DelTwo.pdb
+/Users/buxologist/Projects/DelTwo/DelTwo/obj/Debug/net6.0/DelTwo.dll
+/Users/buxologist/Projects/DelTwo/DelTwo/obj/Debug/net6.0/refint/DelTwo.dll
+/Users/buxologist/Projects/DelTwo/DelTwo/obj/Debug/net6.0/DelTwo.pdb
+/Users/buxologist/Projects/DelTwo/DelTwo/obj/Debug/net6.0/DelTwo.genruntimeconfig.cache
+/Users/buxologist/Projects/DelTwo/DelTwo/obj/Debug/net6.0/ref/DelTwo.dll

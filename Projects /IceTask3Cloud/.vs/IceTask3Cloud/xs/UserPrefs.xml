@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F27FFF82-B96F-4F1E-A868-82B1656E02EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IceTask3Cloud/local.settings.json">
+    <Files>
+      <File FileName="IceTask3Cloud/DatabaseCleanup.cs" Line="1" Column="1" />
+      <File FileName="IceTask3Cloud/local.settings.json" Line="6" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IceTask3Cloud" expanded="True">
+            <Node name="IceTask3Cloud">
+              <Node name="local.settings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IceTask3Cloud PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

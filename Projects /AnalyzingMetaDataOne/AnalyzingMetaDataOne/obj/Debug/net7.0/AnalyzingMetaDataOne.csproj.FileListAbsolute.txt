@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/obj/Debug/net7.0/AnalyzingMetaDataOne.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/obj/Debug/net7.0/AnalyzingMetaDataOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/obj/Debug/net7.0/AnalyzingMetaDataOne.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/obj/Debug/net7.0/AnalyzingMetaDataOne.AssemblyInfo.cs
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/obj/Debug/net7.0/AnalyzingMetaDataOne.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/bin/Debug/net7.0/AnalyzingMetaDataOne
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/bin/Debug/net7.0/AnalyzingMetaDataOne.deps.json
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/bin/Debug/net7.0/AnalyzingMetaDataOne.runtimeconfig.json
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/bin/Debug/net7.0/AnalyzingMetaDataOne.dll
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/bin/Debug/net7.0/AnalyzingMetaDataOne.pdb
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/obj/Debug/net7.0/AnalyzingMetaDataOne.dll
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/obj/Debug/net7.0/refint/AnalyzingMetaDataOne.dll
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/obj/Debug/net7.0/AnalyzingMetaDataOne.pdb
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/obj/Debug/net7.0/AnalyzingMetaDataOne.genruntimeconfig.cache
+/Users/buxologist/Projects/AnalyzingMetaDataOne/AnalyzingMetaDataOne/obj/Debug/net7.0/ref/AnalyzingMetaDataOne.dll

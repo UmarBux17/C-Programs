@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/bin/Debug/net7.0/ProjectBeta
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/bin/Debug/net7.0/ProjectBeta.deps.json
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/bin/Debug/net7.0/ProjectBeta.runtimeconfig.json
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/bin/Debug/net7.0/ProjectBeta.dll
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/bin/Debug/net7.0/ProjectBeta.pdb
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/obj/Debug/net7.0/ProjectBeta.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/obj/Debug/net7.0/ProjectBeta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/obj/Debug/net7.0/ProjectBeta.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/obj/Debug/net7.0/ProjectBeta.AssemblyInfo.cs
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/obj/Debug/net7.0/ProjectBeta.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/obj/Debug/net7.0/ProjectBeta.dll
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/obj/Debug/net7.0/refint/ProjectBeta.dll
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/obj/Debug/net7.0/ProjectBeta.pdb
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/obj/Debug/net7.0/ProjectBeta.genruntimeconfig.cache
+/Users/buxologist/Projects/ProjectBeta/ProjectBeta/obj/Debug/net7.0/ref/ProjectBeta.dll

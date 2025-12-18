@@ -1,0 +1,30 @@
+/Users/buxologist/Projects/BasicOne/BasicOne/bin/Debug/net6.0/BasicOne
+/Users/buxologist/Projects/BasicOne/BasicOne/bin/Debug/net6.0/BasicOne.deps.json
+/Users/buxologist/Projects/BasicOne/BasicOne/bin/Debug/net6.0/BasicOne.runtimeconfig.json
+/Users/buxologist/Projects/BasicOne/BasicOne/bin/Debug/net6.0/BasicOne.dll
+/Users/buxologist/Projects/BasicOne/BasicOne/bin/Debug/net6.0/BasicOne.pdb
+/Users/buxologist/Projects/BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.AssemblyInfo.cs
+/Users/buxologist/Projects/BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.dll
+/Users/buxologist/Projects/BasicOne/BasicOne/obj/Debug/net6.0/refint/BasicOne.dll
+/Users/buxologist/Projects/BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.pdb
+/Users/buxologist/Projects/BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.genruntimeconfig.cache
+/Users/buxologist/Projects/BasicOne/BasicOne/obj/Debug/net6.0/ref/BasicOne.dll
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/bin/Debug/net6.0/BasicOne
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/bin/Debug/net6.0/BasicOne.deps.json
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/bin/Debug/net6.0/BasicOne.runtimeconfig.json
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/bin/Debug/net6.0/BasicOne.dll
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/bin/Debug/net6.0/BasicOne.pdb
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.csproj.AssemblyReference.cache
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.AssemblyInfoInputs.cache
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.AssemblyInfo.cs
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.csproj.CoreCompileInputs.cache
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.dll
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/obj/Debug/net6.0/refint/BasicOne.dll
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.pdb
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/obj/Debug/net6.0/BasicOne.genruntimeconfig.cache
+/Users/buxologist/Desktop/C--Programs/Projects /BasicOne/BasicOne/obj/Debug/net6.0/ref/BasicOne.dll

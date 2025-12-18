@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/BasicTwo/BasicTwo/bin/Debug/net6.0/BasicTwo
+/Users/buxologist/Projects/BasicTwo/BasicTwo/bin/Debug/net6.0/BasicTwo.deps.json
+/Users/buxologist/Projects/BasicTwo/BasicTwo/bin/Debug/net6.0/BasicTwo.runtimeconfig.json
+/Users/buxologist/Projects/BasicTwo/BasicTwo/bin/Debug/net6.0/BasicTwo.dll
+/Users/buxologist/Projects/BasicTwo/BasicTwo/bin/Debug/net6.0/BasicTwo.pdb
+/Users/buxologist/Projects/BasicTwo/BasicTwo/obj/Debug/net6.0/BasicTwo.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/BasicTwo/BasicTwo/obj/Debug/net6.0/BasicTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/BasicTwo/BasicTwo/obj/Debug/net6.0/BasicTwo.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/BasicTwo/BasicTwo/obj/Debug/net6.0/BasicTwo.AssemblyInfo.cs
+/Users/buxologist/Projects/BasicTwo/BasicTwo/obj/Debug/net6.0/BasicTwo.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/BasicTwo/BasicTwo/obj/Debug/net6.0/BasicTwo.dll
+/Users/buxologist/Projects/BasicTwo/BasicTwo/obj/Debug/net6.0/refint/BasicTwo.dll
+/Users/buxologist/Projects/BasicTwo/BasicTwo/obj/Debug/net6.0/BasicTwo.pdb
+/Users/buxologist/Projects/BasicTwo/BasicTwo/obj/Debug/net6.0/BasicTwo.genruntimeconfig.cache
+/Users/buxologist/Projects/BasicTwo/BasicTwo/obj/Debug/net6.0/ref/BasicTwo.dll

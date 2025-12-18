@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/test/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/test/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/test/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/test/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/buxologist/Projects/test/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/test/test/bin/Debug/net7.0/test
+/Users/buxologist/Projects/test/test/bin/Debug/net7.0/test.deps.json
+/Users/buxologist/Projects/test/test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/buxologist/Projects/test/test/bin/Debug/net7.0/test.dll
+/Users/buxologist/Projects/test/test/bin/Debug/net7.0/test.pdb
+/Users/buxologist/Projects/test/test/obj/Debug/net7.0/test.dll
+/Users/buxologist/Projects/test/test/obj/Debug/net7.0/refint/test.dll
+/Users/buxologist/Projects/test/test/obj/Debug/net7.0/test.pdb
+/Users/buxologist/Projects/test/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/buxologist/Projects/test/test/obj/Debug/net7.0/ref/test.dll

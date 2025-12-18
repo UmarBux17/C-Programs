@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/ProjectONe/ProjectONe/bin/Debug/net7.0/ProjectONe
+/Users/buxologist/Projects/ProjectONe/ProjectONe/bin/Debug/net7.0/ProjectONe.deps.json
+/Users/buxologist/Projects/ProjectONe/ProjectONe/bin/Debug/net7.0/ProjectONe.runtimeconfig.json
+/Users/buxologist/Projects/ProjectONe/ProjectONe/bin/Debug/net7.0/ProjectONe.dll
+/Users/buxologist/Projects/ProjectONe/ProjectONe/bin/Debug/net7.0/ProjectONe.pdb
+/Users/buxologist/Projects/ProjectONe/ProjectONe/obj/Debug/net7.0/ProjectONe.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/ProjectONe/ProjectONe/obj/Debug/net7.0/ProjectONe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/ProjectONe/ProjectONe/obj/Debug/net7.0/ProjectONe.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/ProjectONe/ProjectONe/obj/Debug/net7.0/ProjectONe.AssemblyInfo.cs
+/Users/buxologist/Projects/ProjectONe/ProjectONe/obj/Debug/net7.0/ProjectONe.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/ProjectONe/ProjectONe/obj/Debug/net7.0/ProjectONe.dll
+/Users/buxologist/Projects/ProjectONe/ProjectONe/obj/Debug/net7.0/refint/ProjectONe.dll
+/Users/buxologist/Projects/ProjectONe/ProjectONe/obj/Debug/net7.0/ProjectONe.pdb
+/Users/buxologist/Projects/ProjectONe/ProjectONe/obj/Debug/net7.0/ProjectONe.genruntimeconfig.cache
+/Users/buxologist/Projects/ProjectONe/ProjectONe/obj/Debug/net7.0/ref/ProjectONe.dll

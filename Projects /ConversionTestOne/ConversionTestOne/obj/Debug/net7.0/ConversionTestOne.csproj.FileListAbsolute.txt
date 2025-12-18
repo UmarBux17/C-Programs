@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/bin/Debug/net7.0/ConversionTestOne
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/bin/Debug/net7.0/ConversionTestOne.deps.json
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/bin/Debug/net7.0/ConversionTestOne.runtimeconfig.json
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/bin/Debug/net7.0/ConversionTestOne.dll
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/bin/Debug/net7.0/ConversionTestOne.pdb
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/obj/Debug/net7.0/ConversionTestOne.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/obj/Debug/net7.0/ConversionTestOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/obj/Debug/net7.0/ConversionTestOne.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/obj/Debug/net7.0/ConversionTestOne.AssemblyInfo.cs
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/obj/Debug/net7.0/ConversionTestOne.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/obj/Debug/net7.0/ConversionTestOne.dll
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/obj/Debug/net7.0/refint/ConversionTestOne.dll
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/obj/Debug/net7.0/ConversionTestOne.pdb
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/obj/Debug/net7.0/ConversionTestOne.genruntimeconfig.cache
+/Users/buxologist/Projects/ConversionTestOne/ConversionTestOne/obj/Debug/net7.0/ref/ConversionTestOne.dll

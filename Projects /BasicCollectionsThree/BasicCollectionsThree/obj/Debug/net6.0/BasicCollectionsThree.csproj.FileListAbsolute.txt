@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/bin/Debug/net6.0/BasicCollectionsThree
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/bin/Debug/net6.0/BasicCollectionsThree.deps.json
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/bin/Debug/net6.0/BasicCollectionsThree.runtimeconfig.json
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/bin/Debug/net6.0/BasicCollectionsThree.dll
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/bin/Debug/net6.0/BasicCollectionsThree.pdb
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/obj/Debug/net6.0/BasicCollectionsThree.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/obj/Debug/net6.0/BasicCollectionsThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/obj/Debug/net6.0/BasicCollectionsThree.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/obj/Debug/net6.0/BasicCollectionsThree.AssemblyInfo.cs
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/obj/Debug/net6.0/BasicCollectionsThree.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/obj/Debug/net6.0/BasicCollectionsThree.dll
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/obj/Debug/net6.0/refint/BasicCollectionsThree.dll
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/obj/Debug/net6.0/BasicCollectionsThree.pdb
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/obj/Debug/net6.0/BasicCollectionsThree.genruntimeconfig.cache
+/Users/buxologist/Projects/BasicCollectionsThree/BasicCollectionsThree/obj/Debug/net6.0/ref/BasicCollectionsThree.dll

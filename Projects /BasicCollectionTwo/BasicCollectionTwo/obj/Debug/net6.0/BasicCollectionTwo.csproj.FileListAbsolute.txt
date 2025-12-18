@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/bin/Debug/net6.0/BasicCollectionTwo
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/bin/Debug/net6.0/BasicCollectionTwo.deps.json
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/bin/Debug/net6.0/BasicCollectionTwo.runtimeconfig.json
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/bin/Debug/net6.0/BasicCollectionTwo.dll
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/bin/Debug/net6.0/BasicCollectionTwo.pdb
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/obj/Debug/net6.0/BasicCollectionTwo.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/obj/Debug/net6.0/BasicCollectionTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/obj/Debug/net6.0/BasicCollectionTwo.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/obj/Debug/net6.0/BasicCollectionTwo.AssemblyInfo.cs
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/obj/Debug/net6.0/BasicCollectionTwo.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/obj/Debug/net6.0/BasicCollectionTwo.dll
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/obj/Debug/net6.0/refint/BasicCollectionTwo.dll
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/obj/Debug/net6.0/BasicCollectionTwo.pdb
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/obj/Debug/net6.0/BasicCollectionTwo.genruntimeconfig.cache
+/Users/buxologist/Projects/BasicCollectionTwo/BasicCollectionTwo/obj/Debug/net6.0/ref/BasicCollectionTwo.dll

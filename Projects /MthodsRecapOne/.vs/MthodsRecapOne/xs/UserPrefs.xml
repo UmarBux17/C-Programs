@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4DA9E5A6-641E-4EBA-A70A-F1FEB9973954}|Default">
+  <MonoDevelop.Ide.ItemProperties.MthodsRecapOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MthodsRecapOne/Program.cs">
+    <Files>
+      <File FileName="MthodsRecapOne/Program.cs" Line="20" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MthodsRecapOne" expanded="True">
+            <Node name="MthodsRecapOne" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

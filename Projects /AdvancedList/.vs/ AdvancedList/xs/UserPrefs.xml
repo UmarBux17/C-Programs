@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7BF9E640-3625-4D14-B47D-00F097C75C7D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvancedList/Program.cs">
+    <Files>
+      <File FileName="AdvancedList/Program.cs" Line="41" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name=" AdvancedList" expanded="True">
+            <Node name="AdvancedList" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AdvancedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

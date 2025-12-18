@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/DelOne/DelOne/bin/Debug/net6.0/DelOne
+/Users/buxologist/Projects/DelOne/DelOne/bin/Debug/net6.0/DelOne.deps.json
+/Users/buxologist/Projects/DelOne/DelOne/bin/Debug/net6.0/DelOne.runtimeconfig.json
+/Users/buxologist/Projects/DelOne/DelOne/bin/Debug/net6.0/DelOne.dll
+/Users/buxologist/Projects/DelOne/DelOne/bin/Debug/net6.0/DelOne.pdb
+/Users/buxologist/Projects/DelOne/DelOne/obj/Debug/net6.0/DelOne.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/DelOne/DelOne/obj/Debug/net6.0/DelOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/DelOne/DelOne/obj/Debug/net6.0/DelOne.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/DelOne/DelOne/obj/Debug/net6.0/DelOne.AssemblyInfo.cs
+/Users/buxologist/Projects/DelOne/DelOne/obj/Debug/net6.0/DelOne.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/DelOne/DelOne/obj/Debug/net6.0/DelOne.dll
+/Users/buxologist/Projects/DelOne/DelOne/obj/Debug/net6.0/refint/DelOne.dll
+/Users/buxologist/Projects/DelOne/DelOne/obj/Debug/net6.0/DelOne.pdb
+/Users/buxologist/Projects/DelOne/DelOne/obj/Debug/net6.0/DelOne.genruntimeconfig.cache
+/Users/buxologist/Projects/DelOne/DelOne/obj/Debug/net6.0/ref/DelOne.dll

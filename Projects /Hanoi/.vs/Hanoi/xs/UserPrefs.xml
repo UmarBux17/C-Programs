@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7F7B8FC4-5E8B-41C4-8E23-A96D83670916}|Default">
+  <MonoDevelop.Ide.ItemProperties.Hanoi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hanoi/HanoiTower.cs">
+    <Files>
+      <File FileName="Hanoi/Program.cs" Line="48" Column="47" />
+      <File FileName="Hanoi/HanoiTower.cs" Line="38" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hanoi" expanded="True">
+            <Node name="Hanoi">
+              <Node name="HanoiTower.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/bin/Debug/net6.0/AdvancedListTask
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/bin/Debug/net6.0/AdvancedListTask.deps.json
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/bin/Debug/net6.0/AdvancedListTask.runtimeconfig.json
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/bin/Debug/net6.0/AdvancedListTask.dll
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/bin/Debug/net6.0/AdvancedListTask.pdb
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/obj/Debug/net6.0/AdvancedListTask.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/obj/Debug/net6.0/AdvancedListTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/obj/Debug/net6.0/AdvancedListTask.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/obj/Debug/net6.0/AdvancedListTask.AssemblyInfo.cs
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/obj/Debug/net6.0/AdvancedListTask.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/obj/Debug/net6.0/AdvancedListTask.dll
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/obj/Debug/net6.0/refint/AdvancedListTask.dll
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/obj/Debug/net6.0/AdvancedListTask.pdb
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/obj/Debug/net6.0/AdvancedListTask.genruntimeconfig.cache
+/Users/buxologist/Projects/AdvancedListTask/AdvancedListTask/obj/Debug/net6.0/ref/AdvancedListTask.dll

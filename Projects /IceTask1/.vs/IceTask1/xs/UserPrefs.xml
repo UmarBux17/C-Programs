@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{334D6A5E-8CC0-4ABB-80C3-8ED7F764F1BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IceTask1/Program.cs">
+    <Files>
+      <File FileName="IceTask1/Program.cs" Line="1" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IceTask1" expanded="True">
+            <Node name="IceTask1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IceTask1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

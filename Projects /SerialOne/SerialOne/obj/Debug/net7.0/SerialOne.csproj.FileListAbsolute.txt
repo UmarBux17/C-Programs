@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/SerialOne/SerialOne/bin/Debug/net7.0/SerialOne
+/Users/buxologist/Projects/SerialOne/SerialOne/bin/Debug/net7.0/SerialOne.deps.json
+/Users/buxologist/Projects/SerialOne/SerialOne/bin/Debug/net7.0/SerialOne.runtimeconfig.json
+/Users/buxologist/Projects/SerialOne/SerialOne/bin/Debug/net7.0/SerialOne.dll
+/Users/buxologist/Projects/SerialOne/SerialOne/bin/Debug/net7.0/SerialOne.pdb
+/Users/buxologist/Projects/SerialOne/SerialOne/obj/Debug/net7.0/SerialOne.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/SerialOne/SerialOne/obj/Debug/net7.0/SerialOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/SerialOne/SerialOne/obj/Debug/net7.0/SerialOne.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/SerialOne/SerialOne/obj/Debug/net7.0/SerialOne.AssemblyInfo.cs
+/Users/buxologist/Projects/SerialOne/SerialOne/obj/Debug/net7.0/SerialOne.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/SerialOne/SerialOne/obj/Debug/net7.0/SerialOne.dll
+/Users/buxologist/Projects/SerialOne/SerialOne/obj/Debug/net7.0/refint/SerialOne.dll
+/Users/buxologist/Projects/SerialOne/SerialOne/obj/Debug/net7.0/SerialOne.pdb
+/Users/buxologist/Projects/SerialOne/SerialOne/obj/Debug/net7.0/SerialOne.genruntimeconfig.cache
+/Users/buxologist/Projects/SerialOne/SerialOne/obj/Debug/net7.0/ref/SerialOne.dll

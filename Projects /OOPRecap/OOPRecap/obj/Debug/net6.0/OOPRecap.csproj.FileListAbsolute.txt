@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/OOPRecap/OOPRecap/bin/Debug/net6.0/OOPRecap
+/Users/buxologist/Projects/OOPRecap/OOPRecap/bin/Debug/net6.0/OOPRecap.deps.json
+/Users/buxologist/Projects/OOPRecap/OOPRecap/bin/Debug/net6.0/OOPRecap.runtimeconfig.json
+/Users/buxologist/Projects/OOPRecap/OOPRecap/bin/Debug/net6.0/OOPRecap.dll
+/Users/buxologist/Projects/OOPRecap/OOPRecap/bin/Debug/net6.0/OOPRecap.pdb
+/Users/buxologist/Projects/OOPRecap/OOPRecap/obj/Debug/net6.0/OOPRecap.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/OOPRecap/OOPRecap/obj/Debug/net6.0/OOPRecap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/OOPRecap/OOPRecap/obj/Debug/net6.0/OOPRecap.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/OOPRecap/OOPRecap/obj/Debug/net6.0/OOPRecap.AssemblyInfo.cs
+/Users/buxologist/Projects/OOPRecap/OOPRecap/obj/Debug/net6.0/OOPRecap.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/OOPRecap/OOPRecap/obj/Debug/net6.0/OOPRecap.dll
+/Users/buxologist/Projects/OOPRecap/OOPRecap/obj/Debug/net6.0/refint/OOPRecap.dll
+/Users/buxologist/Projects/OOPRecap/OOPRecap/obj/Debug/net6.0/OOPRecap.pdb
+/Users/buxologist/Projects/OOPRecap/OOPRecap/obj/Debug/net6.0/OOPRecap.genruntimeconfig.cache
+/Users/buxologist/Projects/OOPRecap/OOPRecap/obj/Debug/net6.0/ref/OOPRecap.dll

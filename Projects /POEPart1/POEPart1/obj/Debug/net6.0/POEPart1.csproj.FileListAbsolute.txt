@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/POEPart1/POEPart1/bin/Debug/net6.0/POEPart1
+/Users/buxologist/Projects/POEPart1/POEPart1/bin/Debug/net6.0/POEPart1.deps.json
+/Users/buxologist/Projects/POEPart1/POEPart1/bin/Debug/net6.0/POEPart1.runtimeconfig.json
+/Users/buxologist/Projects/POEPart1/POEPart1/bin/Debug/net6.0/POEPart1.dll
+/Users/buxologist/Projects/POEPart1/POEPart1/bin/Debug/net6.0/POEPart1.pdb
+/Users/buxologist/Projects/POEPart1/POEPart1/obj/Debug/net6.0/POEPart1.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/POEPart1/POEPart1/obj/Debug/net6.0/POEPart1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/POEPart1/POEPart1/obj/Debug/net6.0/POEPart1.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/POEPart1/POEPart1/obj/Debug/net6.0/POEPart1.AssemblyInfo.cs
+/Users/buxologist/Projects/POEPart1/POEPart1/obj/Debug/net6.0/POEPart1.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/POEPart1/POEPart1/obj/Debug/net6.0/POEPart1.dll
+/Users/buxologist/Projects/POEPart1/POEPart1/obj/Debug/net6.0/refint/POEPart1.dll
+/Users/buxologist/Projects/POEPart1/POEPart1/obj/Debug/net6.0/POEPart1.pdb
+/Users/buxologist/Projects/POEPart1/POEPart1/obj/Debug/net6.0/POEPart1.genruntimeconfig.cache
+/Users/buxologist/Projects/POEPart1/POEPart1/obj/Debug/net6.0/ref/POEPart1.dll

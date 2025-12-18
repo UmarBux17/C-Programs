@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/bin/Debug/net6.0/RestaurantTipCalculator
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/bin/Debug/net6.0/RestaurantTipCalculator.deps.json
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/bin/Debug/net6.0/RestaurantTipCalculator.runtimeconfig.json
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/bin/Debug/net6.0/RestaurantTipCalculator.dll
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/bin/Debug/net6.0/RestaurantTipCalculator.pdb
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/obj/Debug/net6.0/RestaurantTipCalculator.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/obj/Debug/net6.0/RestaurantTipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/obj/Debug/net6.0/RestaurantTipCalculator.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/obj/Debug/net6.0/RestaurantTipCalculator.AssemblyInfo.cs
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/obj/Debug/net6.0/RestaurantTipCalculator.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/obj/Debug/net6.0/RestaurantTipCalculator.dll
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/obj/Debug/net6.0/refint/RestaurantTipCalculator.dll
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/obj/Debug/net6.0/RestaurantTipCalculator.pdb
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/obj/Debug/net6.0/RestaurantTipCalculator.genruntimeconfig.cache
+/Users/buxologist/Projects/RestaurantTipCalculator/RestaurantTipCalculator/obj/Debug/net6.0/ref/RestaurantTipCalculator.dll

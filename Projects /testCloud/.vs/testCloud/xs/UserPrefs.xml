@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{06958CF8-D11D-4B06-9201-ED7BA0397609}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.testCloud PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testCloud/Program.cs">
+    <Files>
+      <File FileName="testCloud/Program.cs" Line="13" Column="1" />
+      <File FileName="testCloud/Controllers/HomeController.cs" />
+      <File FileName="testCloud/Models/ErrorViewModel.cs" />
+      <File FileName="testCloud/Views/_ViewImports.cshtml" />
+      <File FileName="testCloud/Views/_ViewStart.cshtml" />
+      <File FileName="testCloud/Models/Car.cs" />
+      <File FileName="testCloud/Controllers/CarController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testCloud" expanded="True">
+            <Node name="testCloud" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

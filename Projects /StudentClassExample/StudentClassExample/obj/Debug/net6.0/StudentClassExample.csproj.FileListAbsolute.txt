@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/bin/Debug/net6.0/StudentClassExample
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/bin/Debug/net6.0/StudentClassExample.deps.json
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/bin/Debug/net6.0/StudentClassExample.runtimeconfig.json
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/bin/Debug/net6.0/StudentClassExample.dll
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/bin/Debug/net6.0/StudentClassExample.pdb
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/obj/Debug/net6.0/StudentClassExample.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/obj/Debug/net6.0/StudentClassExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/obj/Debug/net6.0/StudentClassExample.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/obj/Debug/net6.0/StudentClassExample.AssemblyInfo.cs
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/obj/Debug/net6.0/StudentClassExample.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/obj/Debug/net6.0/StudentClassExample.dll
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/obj/Debug/net6.0/refint/StudentClassExample.dll
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/obj/Debug/net6.0/StudentClassExample.pdb
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/obj/Debug/net6.0/StudentClassExample.genruntimeconfig.cache
+/Users/buxologist/Projects/StudentClassExample/StudentClassExample/obj/Debug/net6.0/ref/StudentClassExample.dll

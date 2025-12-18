@@ -1,0 +1,5 @@
+/Users/buxologist/Projects/PointersTwo/PointersTwo/obj/Debug/net7.0/PointersTwo.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/PointersTwo/PointersTwo/obj/Debug/net7.0/PointersTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/PointersTwo/PointersTwo/obj/Debug/net7.0/PointersTwo.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/PointersTwo/PointersTwo/obj/Debug/net7.0/PointersTwo.AssemblyInfo.cs
+/Users/buxologist/Projects/PointersTwo/PointersTwo/obj/Debug/net7.0/PointersTwo.csproj.CoreCompileInputs.cache

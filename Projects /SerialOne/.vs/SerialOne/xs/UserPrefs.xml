@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E10ED0DB-AA13-4E7E-A0BD-A29C5A3FDF80}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SerialOne/Program.cs">
+    <Files>
+      <File FileName="SerialOne/Program.cs" Line="8" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SerialOne" expanded="True">
+            <Node name="SerialOne">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SerialOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

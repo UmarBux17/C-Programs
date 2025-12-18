@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/RectangleApp/RectangleApp/bin/Debug/net6.0/RectangleApp
+/Users/buxologist/Projects/RectangleApp/RectangleApp/bin/Debug/net6.0/RectangleApp.deps.json
+/Users/buxologist/Projects/RectangleApp/RectangleApp/bin/Debug/net6.0/RectangleApp.runtimeconfig.json
+/Users/buxologist/Projects/RectangleApp/RectangleApp/bin/Debug/net6.0/RectangleApp.dll
+/Users/buxologist/Projects/RectangleApp/RectangleApp/bin/Debug/net6.0/RectangleApp.pdb
+/Users/buxologist/Projects/RectangleApp/RectangleApp/obj/Debug/net6.0/RectangleApp.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/RectangleApp/RectangleApp/obj/Debug/net6.0/RectangleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/RectangleApp/RectangleApp/obj/Debug/net6.0/RectangleApp.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/RectangleApp/RectangleApp/obj/Debug/net6.0/RectangleApp.AssemblyInfo.cs
+/Users/buxologist/Projects/RectangleApp/RectangleApp/obj/Debug/net6.0/RectangleApp.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/RectangleApp/RectangleApp/obj/Debug/net6.0/RectangleApp.dll
+/Users/buxologist/Projects/RectangleApp/RectangleApp/obj/Debug/net6.0/refint/RectangleApp.dll
+/Users/buxologist/Projects/RectangleApp/RectangleApp/obj/Debug/net6.0/RectangleApp.pdb
+/Users/buxologist/Projects/RectangleApp/RectangleApp/obj/Debug/net6.0/RectangleApp.genruntimeconfig.cache
+/Users/buxologist/Projects/RectangleApp/RectangleApp/obj/Debug/net6.0/ref/RectangleApp.dll

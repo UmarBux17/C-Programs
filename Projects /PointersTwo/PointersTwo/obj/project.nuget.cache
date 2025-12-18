@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHLOzg+7N5CsN7f7pr62HaDFuITKr8OQfPv8lrD/ZoPQv/T9moMEa5O173TLjMEV1KyjLKMQifnT8knC4Fdejw==",
+  "success": true,
+  "projectFilePath": "/Users/buxologist/Projects/PointersTwo/PointersTwo/PointersTwo.csproj",
+  "expectedPackageFiles": [
+    "/Users/buxologist/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

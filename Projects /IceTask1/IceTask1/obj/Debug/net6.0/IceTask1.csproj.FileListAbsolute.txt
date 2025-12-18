@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/IceTask1/IceTask1/bin/Debug/net6.0/IceTask1
+/Users/buxologist/Projects/IceTask1/IceTask1/bin/Debug/net6.0/IceTask1.deps.json
+/Users/buxologist/Projects/IceTask1/IceTask1/bin/Debug/net6.0/IceTask1.runtimeconfig.json
+/Users/buxologist/Projects/IceTask1/IceTask1/bin/Debug/net6.0/IceTask1.dll
+/Users/buxologist/Projects/IceTask1/IceTask1/bin/Debug/net6.0/IceTask1.pdb
+/Users/buxologist/Projects/IceTask1/IceTask1/obj/Debug/net6.0/IceTask1.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/IceTask1/IceTask1/obj/Debug/net6.0/IceTask1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/IceTask1/IceTask1/obj/Debug/net6.0/IceTask1.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/IceTask1/IceTask1/obj/Debug/net6.0/IceTask1.AssemblyInfo.cs
+/Users/buxologist/Projects/IceTask1/IceTask1/obj/Debug/net6.0/IceTask1.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/IceTask1/IceTask1/obj/Debug/net6.0/IceTask1.dll
+/Users/buxologist/Projects/IceTask1/IceTask1/obj/Debug/net6.0/refint/IceTask1.dll
+/Users/buxologist/Projects/IceTask1/IceTask1/obj/Debug/net6.0/IceTask1.pdb
+/Users/buxologist/Projects/IceTask1/IceTask1/obj/Debug/net6.0/IceTask1.genruntimeconfig.cache
+/Users/buxologist/Projects/IceTask1/IceTask1/obj/Debug/net6.0/ref/IceTask1.dll

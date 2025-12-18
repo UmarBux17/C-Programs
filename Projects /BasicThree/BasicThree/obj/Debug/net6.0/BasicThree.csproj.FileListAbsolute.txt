@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/BasicThree/BasicThree/bin/Debug/net6.0/BasicThree
+/Users/buxologist/Projects/BasicThree/BasicThree/bin/Debug/net6.0/BasicThree.deps.json
+/Users/buxologist/Projects/BasicThree/BasicThree/bin/Debug/net6.0/BasicThree.runtimeconfig.json
+/Users/buxologist/Projects/BasicThree/BasicThree/bin/Debug/net6.0/BasicThree.dll
+/Users/buxologist/Projects/BasicThree/BasicThree/bin/Debug/net6.0/BasicThree.pdb
+/Users/buxologist/Projects/BasicThree/BasicThree/obj/Debug/net6.0/BasicThree.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/BasicThree/BasicThree/obj/Debug/net6.0/BasicThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/BasicThree/BasicThree/obj/Debug/net6.0/BasicThree.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/BasicThree/BasicThree/obj/Debug/net6.0/BasicThree.AssemblyInfo.cs
+/Users/buxologist/Projects/BasicThree/BasicThree/obj/Debug/net6.0/BasicThree.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/BasicThree/BasicThree/obj/Debug/net6.0/BasicThree.dll
+/Users/buxologist/Projects/BasicThree/BasicThree/obj/Debug/net6.0/refint/BasicThree.dll
+/Users/buxologist/Projects/BasicThree/BasicThree/obj/Debug/net6.0/BasicThree.pdb
+/Users/buxologist/Projects/BasicThree/BasicThree/obj/Debug/net6.0/BasicThree.genruntimeconfig.cache
+/Users/buxologist/Projects/BasicThree/BasicThree/obj/Debug/net6.0/ref/BasicThree.dll

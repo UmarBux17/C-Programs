@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/GranolaSales/GranolaSales/bin/Debug/net6.0/GranolaSales
+/Users/buxologist/Projects/GranolaSales/GranolaSales/bin/Debug/net6.0/GranolaSales.deps.json
+/Users/buxologist/Projects/GranolaSales/GranolaSales/bin/Debug/net6.0/GranolaSales.runtimeconfig.json
+/Users/buxologist/Projects/GranolaSales/GranolaSales/bin/Debug/net6.0/GranolaSales.dll
+/Users/buxologist/Projects/GranolaSales/GranolaSales/bin/Debug/net6.0/GranolaSales.pdb
+/Users/buxologist/Projects/GranolaSales/GranolaSales/obj/Debug/net6.0/GranolaSales.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/GranolaSales/GranolaSales/obj/Debug/net6.0/GranolaSales.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/GranolaSales/GranolaSales/obj/Debug/net6.0/GranolaSales.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/GranolaSales/GranolaSales/obj/Debug/net6.0/GranolaSales.AssemblyInfo.cs
+/Users/buxologist/Projects/GranolaSales/GranolaSales/obj/Debug/net6.0/GranolaSales.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/GranolaSales/GranolaSales/obj/Debug/net6.0/GranolaSales.dll
+/Users/buxologist/Projects/GranolaSales/GranolaSales/obj/Debug/net6.0/refint/GranolaSales.dll
+/Users/buxologist/Projects/GranolaSales/GranolaSales/obj/Debug/net6.0/GranolaSales.pdb
+/Users/buxologist/Projects/GranolaSales/GranolaSales/obj/Debug/net6.0/GranolaSales.genruntimeconfig.cache
+/Users/buxologist/Projects/GranolaSales/GranolaSales/obj/Debug/net6.0/ref/GranolaSales.dll

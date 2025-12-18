@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/bin/Debug/net6.0/MthodsRecapOne
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/bin/Debug/net6.0/MthodsRecapOne.deps.json
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/bin/Debug/net6.0/MthodsRecapOne.runtimeconfig.json
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/bin/Debug/net6.0/MthodsRecapOne.dll
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/bin/Debug/net6.0/MthodsRecapOne.pdb
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/obj/Debug/net6.0/MthodsRecapOne.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/obj/Debug/net6.0/MthodsRecapOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/obj/Debug/net6.0/MthodsRecapOne.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/obj/Debug/net6.0/MthodsRecapOne.AssemblyInfo.cs
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/obj/Debug/net6.0/MthodsRecapOne.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/obj/Debug/net6.0/MthodsRecapOne.dll
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/obj/Debug/net6.0/refint/MthodsRecapOne.dll
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/obj/Debug/net6.0/MthodsRecapOne.pdb
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/obj/Debug/net6.0/MthodsRecapOne.genruntimeconfig.cache
+/Users/buxologist/Projects/MthodsRecapOne/MthodsRecapOne/obj/Debug/net6.0/ref/MthodsRecapOne.dll

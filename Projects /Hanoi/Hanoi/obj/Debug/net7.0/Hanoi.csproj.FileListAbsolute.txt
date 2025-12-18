@@ -1,0 +1,15 @@
+/Users/buxologist/Projects/Hanoi/Hanoi/bin/Debug/net7.0/Hanoi
+/Users/buxologist/Projects/Hanoi/Hanoi/bin/Debug/net7.0/Hanoi.deps.json
+/Users/buxologist/Projects/Hanoi/Hanoi/bin/Debug/net7.0/Hanoi.runtimeconfig.json
+/Users/buxologist/Projects/Hanoi/Hanoi/bin/Debug/net7.0/Hanoi.dll
+/Users/buxologist/Projects/Hanoi/Hanoi/bin/Debug/net7.0/Hanoi.pdb
+/Users/buxologist/Projects/Hanoi/Hanoi/obj/Debug/net7.0/Hanoi.csproj.AssemblyReference.cache
+/Users/buxologist/Projects/Hanoi/Hanoi/obj/Debug/net7.0/Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buxologist/Projects/Hanoi/Hanoi/obj/Debug/net7.0/Hanoi.AssemblyInfoInputs.cache
+/Users/buxologist/Projects/Hanoi/Hanoi/obj/Debug/net7.0/Hanoi.AssemblyInfo.cs
+/Users/buxologist/Projects/Hanoi/Hanoi/obj/Debug/net7.0/Hanoi.csproj.CoreCompileInputs.cache
+/Users/buxologist/Projects/Hanoi/Hanoi/obj/Debug/net7.0/Hanoi.dll
+/Users/buxologist/Projects/Hanoi/Hanoi/obj/Debug/net7.0/refint/Hanoi.dll
+/Users/buxologist/Projects/Hanoi/Hanoi/obj/Debug/net7.0/Hanoi.pdb
+/Users/buxologist/Projects/Hanoi/Hanoi/obj/Debug/net7.0/Hanoi.genruntimeconfig.cache
+/Users/buxologist/Projects/Hanoi/Hanoi/obj/Debug/net7.0/ref/Hanoi.dll
